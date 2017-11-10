@@ -1,0 +1,10 @@
+function abc()
+
+	dim abc as integer
+	dim rst as adodb.recordset
+
+
+	set rst = new adodb.recordset
+
+
+end function
